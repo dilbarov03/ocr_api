@@ -39,7 +39,7 @@ def get_languages():
   return {
     "English": "end",
     "Russian": "rus",
-    "German": "ger",
+    "German": "deu",
     "French": "fra",
     "Italian": "ita",
     "Turkish": "tur",
